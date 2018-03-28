@@ -8,7 +8,7 @@
 // Vibration motors - 2mm 1020 Motors from Seeed
 // Transistor for switching on the motors - BD681
 // Protection diode for the motors - 1N4007
-// Resistor for the Arduino pin - 4.7 kohm
+// Resistor for the Arduino pin - 4.7 k Ohm
 
 // Set names for the vibration motor pins
 int motorPin1 = 0;
